@@ -5,3 +5,4 @@ backend:
 
   media_folder: "static/uploads"
   public-folder: "uploads"
+  
